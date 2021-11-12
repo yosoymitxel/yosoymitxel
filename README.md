@@ -1,0 +1,2 @@
+- 👋 Hi, soy @yosoymitxel
+- 👀 Estoy interesado por el desarrollo de sistemas informáticos.
