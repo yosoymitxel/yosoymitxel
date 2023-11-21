@@ -7,12 +7,12 @@ Actualmente, tengo dos proyectos web en los que he trabajado:
 ### Linkea
 Linkea es un gestor de enlaces que permite a los usuarios guardar y organizar sus enlaces favoritos en una sola plataforma. El proyecto está desarrollado en PHP, JavaScript, CSS y HTML, y utiliza la base de datos MySQL para almacenar los datos. Linkea es un proyecto en constante evolución y estoy trabajando en nuevas funcionalidades para mejorar la experiencia del usuario.
 
-http://linkea.epizy.com/
+~~http://linkea.epizy.com/~~ (Actualmente de baja)
 
 ### Multitubemp3
 Multitubemp3 es un conversor de videos de YouTube a MP3 que permite a los usuarios descargar múltiples canciones al mismo tiempo en formato MP3. El proyecto está desarrollado en PHP, JavaScript, CSS y HTML, y utiliza la API de YouTube para obtener los datos de los videos. 
 
-http://multitubemp3.epizy.com/
+~~http://multitubemp3.epizy.com/~~ (Actualmente de baja)
 
 ## Librerías
 Además de mis proyectos web, también he desarrollado dos librerías que pueden ser de utilidad para otros programadores:
